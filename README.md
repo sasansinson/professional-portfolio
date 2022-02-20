@@ -6,5 +6,4 @@ This is my first portfolio web page and included my projects and contact details
 ![Portfolio Page.](./images/screenshot.png)
 
 you can access to my web page from following link:
-https://sasansinson.github.io/portfolio/
-
+https://sasansinson.github.io/professional-portfolio/
